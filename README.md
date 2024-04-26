@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+tjs  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Bakkali ayoub</h1>
 - 🌱 I’m currently studying in **Artificiel Intelligence & Data Science Master**
 
@@ -43,6 +43,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="hadoop" width="40" height="40"/>
 
 <img src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Nextjs" width="40" height="40"/>
+
 
 </p>
 
