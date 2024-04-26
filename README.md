@@ -42,6 +42,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="hadoop" width="40" height="40"/>
 
+<img src="https://www.svgrepo.com/show/349342/docker.svg" alt="Docker" width="40" height="40"/>
 
 </p>
 
