@@ -35,9 +35,11 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwindcss" width="40" height="40"/>
-<img src="https://worldvectorlogo.com/logo/laravel-2" alt="Tailwindcss" width="40" height="40"/>
 
-<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Tailwindcss" width="40" height="40"/>
+
+<img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
+<img src="https://worldvectorlogo.com/logo/numpy-1" alt="Laravel" width="40" height="40"/>
+
 
 </p>
 
