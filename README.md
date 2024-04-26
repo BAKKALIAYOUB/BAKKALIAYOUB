@@ -38,7 +38,7 @@
 
 
 <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40"/>
-<img src="https://worldvectorlogo.com/logo/numpy-1" alt="numpy" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="numpy" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="hadoop" width="40" height="40"/>
 
