@@ -1,9 +1,10 @@
-tjs  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Bakkali ayoub</h1>
-- 🌱 I’m currently studying in **Artificiel Intelligence & Data Science Master**
+<h1>About Me</h1>
 
-- 📫 How to reach me **ayoubbakkali484@gmail.com**
-- 👨‍💻 All of my projects are available at **https://github.com/BAKKALIAYOUB**
+- 👋 Hi there! I'm Ayoub Bakkali, a first-year Master's student specializing in Artificial Intelligence and Data Science. 📚 My journey into the world of AI is fueled by a deep passion for machine learning and a relentless drive to solve real-world problems. I believe in the transformative power of data and technology to create meaningful change.
+  
+- 🌟 I am always eager to learn new things, 🤝 collaborate with others, and contribute to the data science community. 👨‍💻🌐
+<br>
+<br>
 
 <div> <a href="https://www.linkedin.com/in/ayoub-bakkali-874534241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/BAKKALIAYOUB" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -48,8 +49,7 @@ tjs  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974
 
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAKKALIAYOUB&layout=compact&theme=default" alt=BAKKALIAYOUB />
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
